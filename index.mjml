@@ -1,0 +1,154 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'IBM Plex Sans', 'Helvetica', 'Arial', sans-serif"></mj-all>
+      <mj-text color="#5C5C5C"></mj-text>
+    </mj-attributes>
+    <mj-font href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:normal,italic,bold&display=swap" name="IBM Plex Sans"></mj-font>
+  </mj-head>
+  <mj-body background-color="#F6F6F6">
+    <mj-section background-color="white">    
+       <mj-column padding="0">
+      	 <mj-text font-size="20px" color="#F45E43" font-family="Helvética" align="center">
+ <a href="https://bergano69.github.io/newsletter/" style="color: black">Abrir no browser</a>
+      </mj-text>
+          </mj-column>
+      </mj-section>
+    <mj-section padding="32px">
+      <mj-column padding="0">
+        <mj-image padding="0px"src="https://drive.google.com/uc?id=1Yv9n3gC8IIA_YXWZmmglMVpC99xLHYRO" href="https://www.esjaloures.org" width="200px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-radius="24px 24px 0px 0px" padding-bottom="24px" padding-left="48px" padding-right="48px" padding-top="48px" padding="48px">
+      <mj-column padding="0">
+        <mj-spacer height="24px"></mj-spacer>
+        <mj-image padding="0px" src="https://drive.google.com/uc?id=1xzHrfA0BkuM9KVdXxroCoB6WrQINwZc6" width="360px"></mj-image>
+        <mj-spacer height="40px"></mj-spacer>
+        <mj-text color="#000000" font-size="32px" line-height="1.25" padding="0px" >
+          <strong>boas práticas para a utilização de dispositivos móveis em viagem </strong>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text font-size="20px" line-height="1.6" padding="0px">
+         Quando vai viajar a segurança da sua informação pessoal e profissional deve ser uma prioridade. Ao levar consigo o seu computador, telemóvel e/ou tablet, mesmo sendo do trabalho, pode estar a negligenciar as questões de cibersegurança porque estes dispositivos permitem a troca de dados. Muitos dos dados armazenados são confidenciais e pertencem à sua organização.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0px" padding-bottom="16px" padding-left="48px" padding-right="48px" padding-top="24px" padding="20px">
+      <mj-column padding="0" width="40%">
+        <mj-image align="left" border-radius="16px" padding="0px" src="https://drive.google.com/uc?id=1poqxW4jmIAGUv33VpPq_N3e0qt8QVtx-" width="170px"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="60%">
+        <mj-text color="#000000" font-size="20px" line-height="1.5" padding="0px">
+          <strong>SEJA UM VIAJANTE CIBERSEGURO</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="18px" line-height="1.5" padding="0px">
+          Em locais públicos, como cafés, hotéis, escritórios, portos e aeroportos pode aceder à Internet em pontos de acesso sem fio (wi-fi), às vezes gratuitos, que estão acessíveis a todos e onde não existe garantia de confidencialidade das informações armazenadas. 
+        </mj-text>
+      </mj-columcn>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0px" padding-bottom="16px" padding-left="48px" padding-right="48px" padding-top="16px" padding="20px">
+      <mj-column padding="0" width="40%">
+       <mj-image align="left" border-radius="16px" padding="0px" src="https://drive.google.com/uc?id=1JMzsDoJss3OfaeRYi_Aqh-vEX-cDNkaa" width="170px"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="60%">
+        <mj-text color="#000000" font-size="20px" line-height="1.5" padding="0px">
+          <strong>ANTES DE VIAJAR</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="18px" line-height="1.5" padding="0px" text-transform="lowercase">
+          <strong>FAÇA UM BACKUP DOS SEUS FICHEIROS EM OUTRO DISPOSITIVO E COLOQUE-O EM LOCAL SEGURO OU ARMAZENE OS FICHEIROS EM NUVEM -</strong> Em caso de perda, roubo ou apreensão de equipamento poderá recuperar as suas informações quando regressar da sua viagem.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0px" padding-bottom="20px" padding-left="48px" padding-right="48px" padding-top="16px" padding="20px">
+      <mj-column padding="0" width="40%">
+        <mj-image align="left" border-radius="16px" padding="0px" src="https://drive.google.com/uc?id=1hgArmHrhPgMt_yPdpPakKtqj_7CUVfgC" width="170px"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="60%">
+        <mj-text color="#000000" font-size="20px" line-height="1.5" padding="0px">
+          <strong>DURANTE A VIAGEM</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="18px" line-height="1.5" padding="0px">
+          Durante a viagem leve os dispositivos na sua bagagem de mão, incluindo cartão SIM e bateria. Não os deixe no escritório, sala de conferência e coloque-os no cofre do quarto do hotel. Mesmo quando eles estão a carregar bateria e caso esteja por perto, as informações podem ser comprometidas.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section padding="0px">
+      <mj-column padding="0">
+        <mj-spacer height="48px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-radius="24px 24px 0px 0px" padding-bottom="12px" padding-left="48px" padding-right="48px" padding-top="48px" padding="48px">
+      <mj-column padding="0">
+        <mj-text color="#000000" font-size="24px" line-height="1.5" padding="0px">
+          <strong>DEPOIS DA VIAGEM</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0px" padding-bottom="16px" padding-left="48px" padding-right="48px" padding-top="12px" padding="20px">
+      <mj-column padding="0" width="40%">
+        <mj-image align="left" border-radius="16px" padding="0px" src="https://cdn.getvero.com/dd-editor/templates/activation/1.png" width="170px"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="60%">
+        <mj-text color="#000000" font-size="20px" line-height="1.5" padding="0px">
+          <strong>ALTERE AS SUAS PALAVRAS-CHAVE QUE UTILIZOU DURANTE A VIAGEM</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="18px" line-height="1.5" padding="0px">
+         Podem ter sido intercetadas sem o seu conhecimento.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0px 0px 24px 24px" padding-bottom="48px" padding-left="48px" padding-right="48px" padding-top="16px" padding="20px">
+      <mj-column padding="0" width="40%">
+        <mj-image align="left" border-radius="16px" padding="0px" src="https://cdn.getvero.com/dd-editor/templates/activation/2.png" width="170px"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="60%">
+        <mj-text color="#000000" font-size="20px" line-height="1.5" padding="0px">
+          <strong>VERIFIQUE OS SEUS DISPOSITIVOS</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="18px" line-height="1.5" padding="0px">
+          Não ligue os dispositivos à sua rede antes de ter pelo menos um antivírus e um teste de anti-spyware realizado.
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+       <mj-section background-color="#ffffff" border-radius="0px 0px 24px 24px" padding-bottom="48px" padding-left="48px" padding-right="48px" padding-top="16px" padding="20px">
+      <mj-column padding="0" width="40%">
+        <mj-image align="left" border-radius="16px" padding="0px" src="https://cdn.getvero.com/dd-editor/templates/activation/3.png" width="170px"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="60%">
+        <mj-text color="#000000" font-size="20px" line-height="1.5" padding="0px">
+          <strong>LIMPE O HISTÓRICO DO SEU NAVEGADOR, COOKIES E OUTROS DADOS TEMPORÁRIOS DOS SEUS DISPOSITIVOS</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="18px" line-height="1.5" padding="0px">
+          Ao limpar o histórico de navegação em browsers (ex. Internet Explorer, Chrome, Firefox) de computadores e dispositivos móveis não permite deixar sinais das suas ações.
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section border-bottom="1px solid #e0e0e0" border-left="none" border-right="none" border-top="none" padding-bottom="32px" padding-left="48px" padding-right="48px" padding-top="32px" padding="12px">
+      <mj-column padding="0">
+        <mj-social font-size="15px" icon-padding="4px" icon-size="30px" mode="horizontal" padding="0px">
+          <mj-social-element src="https://cdn.getvero.com/dd-editor/ui-assets/icons/social/facebook.png" alt="https://www.facebook.com/" href="https://pt-pt.facebook.com/CentroNacionalCibersegurancaPT/" name="facebook-noshare" title="https://www.facebook.com/"></mj-social-element>
+          <mj-social-element src="https://cdn.getvero.com/dd-editor/ui-assets/icons/social/google-plus.png" alt="https://www.google.com/" href="https://www.cncs.gov.pt/pt/conselhos-aos-viajantes/" name="google-noshare" title="https://www.google.com/"></mj-social-element>
+          <mj-social-element src="https://cdn.getvero.com/dd-editor/ui-assets/icons/social/twitter.png" alt="https://www.twitter.com/" href="https://twitter.com/CNCSgovpt" name="twitter-noshare" title="https://www.twitter.com/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="48px">
+      <mj-column padding="0">
+        <mj-image align="left" padding="0px" src="https://drive.google.com/uc?id=1Yv9n3gC8IIA_YXWZmmglMVpC99xLHYRO" href="https://www.esjaloures.org" width="134px"></mj-image>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text align="right" font-size="14px" line-height="1.5" padding="0px">
+          Juntos por uma utilização de dispositivos móveis em viagem mais segura. <br /><br />12ºPSI
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
